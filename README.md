@@ -7,7 +7,7 @@ Cacti template for Postfix email queue. Template based on ssh, no SNMP.
 
 - Copy the script "mailq.sh" to <cacti_dir>/scripts/ directory.
 - SSH connection options are easily configurable in the file "*mailq.sh*".
-- Import the xml template in Cacti.
+- Import the file cacti_graph_template_postfix_email_queue.xml in Cacti.
 
 ## Dependencies
 
