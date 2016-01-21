@@ -1,5 +1,5 @@
 # Postfix-queue-cacti
-Cacti template for Postfix email queue. Template based on ssh, no SNMP.
+Cacti template for Postfix email queue. Template based on ssh, not SNMP.
 
 **Graphs**: Emails in queue + Queue size. (Screenshots)
 
@@ -12,7 +12,7 @@ Cacti template for Postfix email queue. Template based on ssh, no SNMP.
 ## Dependencies
 
 ### Target host.
-- User (cacti) accessible by public ssh key.
+- User (cacti) accessible through public ssh key
 - Mailq command (installed by default with Postfix).
 
 ###Cacti server.
