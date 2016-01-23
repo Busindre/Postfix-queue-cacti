@@ -1,7 +1,8 @@
 # Postfix-queue-cacti
 Cacti template for Postfix email queue. Template based on ssh, not SNMP.
 
-**Graphs**: Emails in queue + Queue size. (Screenshots)
+**Graphs**: Emails in queue + Queue size. ([Screenshots] (https://github.com/Busindre/Postfix-queue-cacti/issues/1 "Postfix-queue-cacti
+ screenshot"))
 
 ## Installation
 
